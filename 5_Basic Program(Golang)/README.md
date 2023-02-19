@@ -1,0 +1,4 @@
+Golang adalah salah satu bahasa yang bisa digunakan untuk back-end yang sedang populer saat ini. Golang merupakan bahasa open source yang dikembangkan oleh tim google yang bertujuan untuk memudahkan proses development namun tetap simple dan handal untuk meningkatkan efisiensi aplikasi/software yang dibuat.
+Golang merupakan bahasa program yang bagus untuk menulis low-level programyang dapat digunakan untuk menyediakan layanan sistem lain.Contohnya aplikasi e-commerce, music player da social media apps.
+Variabel adalah tempat untuk menyimpan data dan data tersebut biasanya memiliki nama.Variabel biasanya digunakan agar kita dapat mengakses data tersebut dengan mudah.
+Tipe data di Golang dibagi menjadi 3 yaitu Boolean, Numeric dan String. Boolean nilainya hanya ada true/false. Numeric di Golang ada 3 yaitu Integer, Float dan Complex. String digunakan untuke menyimpan kata/kalimat.
