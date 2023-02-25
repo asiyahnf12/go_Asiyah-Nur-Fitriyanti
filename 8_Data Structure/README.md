@@ -1,0 +1,4 @@
+Array adalah struktur data yang terdiri dari sekumpulan nilai atau elemen yang memiliki tipe data yang sama dan ditempatkan secara berurutan di dalam sebuah memori. Setiap elemen pada array dapat diakses dengan menggunakan indeks yang dimulai dari 0. Misalnya, untuk mengakses elemen pertama dalam array, kita menggunakan indeks 0, untuk elemen kedua menggunakan indeks 1, dan seterusnya.
+Slice adalah struktur data yang berisi sekelompok elemen, dapat berisi satu jenis variabel (seperti Array) tetapi memiliki ukuran alokasi yang dinamis.
+Map adalah struktur data yang menyimpan data dalam bentuk pasangan kunci dan nilai di mana setiap kunci unik.
+Function adalah bagian dari kode yang dipanggil dengan nama. Function merupakan cara mudah untuk membagi kode menjadi blok-blok yang berguna.
