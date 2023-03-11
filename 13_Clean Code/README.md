@@ -1,0 +1,3 @@
+1. Clean code adalah istilah untuk code yang mudah difahami, dibaca dan diubah oleh progammer.
+2. Karakteristik clean code yaitu : mudah difahami; mudah dieja dan dicari; singkat namun mendeskripsikan konteks; konsisten; hindari penambahan konteks yang tidak perlu; komentar; good function; gunakan konvensi; formatting.
+3. Teknik refactoring yaitu : membuat suatu abstraksi; memecah kode dengan fungsi/class; perbaiki penamaan dan lokasi kode; deteksi kode yang memiliki duplikasi.
