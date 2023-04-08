@@ -1,0 +1,5 @@
+1. DML atau Data Manipulation Language adalah sebuah bahasa pemrograman yang digunakan untuk mengubah, menghapus, dan memasukkan data ke dalam database. Dalam SQL, contohnya, DML digunakan untuk mengakses dan memanipulasi data dalam sebuah tabel, dengan perintah seperti SELECT, INSERT, UPDATE, dan DELETE.
+2. DDL atau Data Definition Language adalah bahasa pemrograman SQL yang digunakan untuk mendefinisikan struktur dan skema database. DDL digunakan untuk membuat, mengubah, dan menghapus objek dalam database seperti tabel, indeks, tampilan (view), dan prosedur.
+3. Database dapat dibagi menjadi dua jenis utama, yaitu:
+a. Relasional: jenis database yang paling umum digunakan, di mana data disimpan dalam tabel dengan relasi yang terdefinisi dengan jelas antara satu tabel dengan tabel lainnya. Beberapa contoh database relasional adalah MySQL, PostgreSQL, Oracle, dan SQL Server.
+b. NoSQL: jenis database yang dirancang untuk mengatasi masalah scalability dan performa dalam aplikasi modern. NoSQL biasanya digunakan untuk aplikasi web, big data, dan real-time data processing. Beberapa contoh database NoSQL adalah MongoDB, Cassandra, dan Redis.
