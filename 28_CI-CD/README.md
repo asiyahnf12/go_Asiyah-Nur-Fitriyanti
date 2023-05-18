@@ -1,0 +1,3 @@
+1. Teamwork adalah konsep kerja sama yang erat antara dua atau lebih individu yang bekerja bersama untuk mencapai tujuan bersama. Dalam kerangka teamwork, anggota tim saling berbagi informasi, keterampilan, dan sumber daya untuk meningkatkan efisiensi dan efektivitas pekerjaan.
+2. Perbedaan Team dan Groups yaitu Team memiliki tujuan yang jelas dan spesifik yang harus dicapai bersama-sama. Anggota team bekerja bersama untuk mencapai hasil yang diinginkan. Di sisi lain, group mungkin tidak memiliki tujuan yang jelas atau mungkin hanya memiliki tujuan yang tidak terlalu spesifik. Anggota group dapat bekerja secara independen atau hanya berkumpul tanpa fokus yang jelas pada tujuan bersama.
+3. Teamwork impact : Pillars, Values, Event, Artifact.
